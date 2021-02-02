@@ -1,0 +1,19 @@
+h2 {
+	color:red;
+	font-family: Arial, sans-serif;
+	
+}
+
+.randomeclass {
+	margin: 0 auto;
+	width: 50%;
+	background: #FFF;
+	padding: 15px;
+}
+.images {
+	width: 100%;
+	height: auto;
+}
+body {
+	background: #CCC;
+}
